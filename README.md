@@ -2,7 +2,7 @@
 
 - :school: I am a `Pre-Final yearite` at [Department of Mechanical Engineering](https://www.iitg.ac.in/mech/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **jatinworks182004@gmail.com**
   <p align="middle"> <img src="https://komarev.com/ghpvc/?username=jatinweb2004&label=Profile%20views&color=db7093&style=plastic" alt="jatinweb2004" /></p>
