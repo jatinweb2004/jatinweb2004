@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 
-- :school: I am a `Pre-Final yearite` at [Department of Mechanical Engineering and Engineering](https://www.iitg.ac.in/mech/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
+- :school: I am a `Pre-Final yearite` at [Department of Mechanical Engineering](https://www.iitg.ac.in/mech/) at [Indian Institute of Technology Guwahati](https://iitg.ac.in/).
 
 - 🌱 I’m currently learning **MYSQL**
 
